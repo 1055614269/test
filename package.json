@@ -10,11 +10,10 @@
     "type": "git",
     "url": "git@code.aliyun.com:efoto-app/components.git"
   },
-  "keywords": [  
-    "测试"  
-  ],  
   "author": "",
   "license": "ISC",
-  "dependencies": {}  
+  "dependencies": {
+    "test1":"https://github.com/1055614269/test.git"
+  }  
 
 }
